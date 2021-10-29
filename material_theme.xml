@@ -1,6 +1,21 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isActiveBoldTab" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="26" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="24" />
     <option name="accentColor" value="416a9b" />
+    <option name="highlightColor" value="fd00e4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-59a7e001:17ccb223ba9:-8000" />
     <option name="version" value="6.9.1" />
