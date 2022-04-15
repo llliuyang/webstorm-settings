@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="io.zhile.research.ide-eval-resetter" shouldLog="false" />
+    <notification groupId="Material Theme Notifications" shouldLog="false" />
+    <notification groupId="Vcs Notifications" playSound="true" />
+  </component>
+</application>
