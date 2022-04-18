@@ -4,7 +4,6 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="accentMode" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -12,9 +11,9 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="upperCaseTabs" value="true" />
     <option name="customSidebarHeight" value="26" />
     <option name="indicatorThickness" value="5" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ffd866" />
     <option name="highlightColor" value="fd00e4" />
