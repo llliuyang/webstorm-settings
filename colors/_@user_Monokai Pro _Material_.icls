@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:31:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-18T19:24:02</property>
+    <property name="modified">2022-04-18T19:41:12</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1217,8 +1217,9 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="221f22" />
+        <option name="FOREGROUND" value="f17e2c" />
+        <option name="BACKGROUND" value="95572c" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
