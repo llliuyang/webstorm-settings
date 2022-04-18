@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:31:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-18T21:58:29</property>
+    <property name="modified">2022-04-18T23:04:12</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -75,7 +75,7 @@
     <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
-    <option name="GUTTER_BACKGROUND" value="2d2a2e" />
+    <option name="GUTTER_BACKGROUND" value="2c272c" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2d2a2e" />
@@ -257,7 +257,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="e91e63" />
+        <option name="BACKGROUND" value="69a023" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
