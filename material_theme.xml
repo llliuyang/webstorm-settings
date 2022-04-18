@@ -10,6 +10,7 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="customSidebarHeight" value="26" />
