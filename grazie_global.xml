@@ -6,6 +6,21 @@
         <option value="Chinese" />
       </set>
     </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="LanguageTool.EN.LOOK_FORWARD_NOT_FOLLOWED_BY_TO" />
+        <option value="LanguageTool.EN.WORD_CONTAINS_UNDERSCORE" />
+        <option value="LanguageTool.EN.TYPO_OR_OF" />
+        <option value="LanguageTool.EN.WAITING_MY_PATIENT" />
+        <option value="LanguageTool.EN.EN_SPECIFIC_CASE" />
+        <option value="LanguageTool.EN.E_PRIME_LOOSE" />
+        <option value="LanguageTool.EN.PASSIONATE_BY_ABOUT_2" />
+        <option value="LanguageTool.EN.DT_NNS_AGREEMENT" />
+        <option value="LanguageTool.EN.POPULAR_AMONG_WITH" />
+        <option value="LanguageTool.EN.DIVIDE_IN_INTO" />
+        <option value="LanguageTool.EN.E_PRIME_STRICT" />
+      </set>
+    </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
