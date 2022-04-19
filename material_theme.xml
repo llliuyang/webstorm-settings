@@ -4,6 +4,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -13,13 +14,14 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="indicatorStyle" value="Sharp" />
     <option name="customSidebarHeight" value="26" />
     <option name="indicatorThickness" value="3" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="ffd866" />
     <option name="highlightColor" value="fd00e4" />

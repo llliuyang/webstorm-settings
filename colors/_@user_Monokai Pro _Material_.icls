@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:31:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-18T23:04:12</property>
+    <property name="modified">2022-04-19T09:40:24</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -91,6 +91,7 @@
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="939293" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
     <option name="MODIFIED_TAB_ICON" value="ffd866" />
