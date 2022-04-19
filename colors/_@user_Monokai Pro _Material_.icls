@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:31:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-19T09:40:24</property>
+    <property name="modified">2022-04-19T11:21:54</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -48,7 +48,7 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="ff6188" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="403e41" />
+    <option name="DOCUMENTATION_COLOR" value="484248" />
     <option name="DOC_COMMENT_GUIDE" value="5b595c" />
     <option name="DOC_COMMENT_LINK" value="78dce8" />
     <option name="FILESTATUS_ADDED" value="a9dc76" />
@@ -91,6 +91,7 @@
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="939293" />
     <option name="LINE_NUMBERS_COLOR" value="5b595c" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LOOKUP_COLOR" value="484248" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
     <option name="MODIFIED_LINES_COLOR" value="fc9867" />
@@ -152,7 +153,7 @@
     <option name="TAB_UNDERLINE" value="ffd866" />
     <option name="TAB_UNDERLINE_INACTIVE" value="ffd866c0" />
     <option name="TEARLINE_COLOR" value="403e41" />
-    <option name="TOOLTIP" value="2d2a2e" />
+    <option name="TOOLTIP" value="484248" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="727072" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="ff6188" />
@@ -838,7 +839,7 @@
       <value>
         <option name="EFFECT_COLOR" value="ff6188" />
         <option name="ERROR_STRIPE_COLOR" value="ff6188" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -1197,8 +1198,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ab9df2" />
-        <option name="ERROR_STRIPE_COLOR" value="ab9df2" />
+        <option name="EFFECT_COLOR" value="a497" />
+        <option name="ERROR_STRIPE_COLOR" value="a497" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3764,7 +3765,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="2d2a2e" />
+        <option name="BACKGROUND" value="484248" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
