@@ -2,20 +2,23 @@
   <component name="CodeInsightSettings">
     <option name="PARAMETER_INFO_DELAY" value="500" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="ECMAScript 6" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; " />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints.parameters.in.parens" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints.variables.and.fields" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
