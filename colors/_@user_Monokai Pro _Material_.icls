@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:31:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-19T11:43:02</property>
+    <property name="modified">2022-04-19T15:03:09</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -259,7 +259,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="69a023" />
+        <option name="BACKGROUND" value="a497" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
